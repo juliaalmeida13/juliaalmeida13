@@ -1,5 +1,7 @@
 <h1 align="center"> Hello, people !🌎</h1>
 
+###### <img src="https://media.baamboozle.com/uploads/images/545949/1672831370_818706_gif-url.gif" width="10">  Sao Paulo, Brazil
+
 - 👻 I'm a undergraduate student in **Computer Engineering at @UFSCar**
 
 - 🔭 I’m currently working at **@IBM as an IBM Consulting entry-level Machine Learning Engineer**
