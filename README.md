@@ -1,6 +1,8 @@
 <h1 align="center"> Hello, people !🌎</h1>
 - 👻 I'm a undergraduate student in Computer Engineering at @UFSCar
+
 - 🔭 I’m currently working at **@IBM as an IBM Consulting entry-level Machine Learning Engineer**
+
 - 🌱 Currently learning **Python, Azure, Docker and Machine Learning**
 
 ![github2](https://user-images.githubusercontent.com/51387195/136126926-6117deeb-3338-4e31-9044-8305ea3b07f0.gif)
