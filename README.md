@@ -4,7 +4,7 @@
 
 * 👻 I'm a undergraduate student in **Computer Engineering at @UFSCar**
 
-* 🔭 I’m currently working at **@Brandlovrs as an Data & Machine Learning Engineer**
+* 🔭 I’m currently working at **@Brandlovrs as a Data & Machine Learning Engineer**
 
 ![github2](https://user-images.githubusercontent.com/51387195/136126926-6117deeb-3338-4e31-9044-8305ea3b07f0.gif)
 
