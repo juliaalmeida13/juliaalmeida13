@@ -2,9 +2,9 @@
 
 ###### <img src="https://media.baamboozle.com/uploads/images/545949/1672831370_818706_gif-url.gif" width="10">  Sao Paulo, Brazil
 
-* 👻 I'm a undergraduate student in **Computer Engineering at @UFSCar**
+* 👻 **Computer Engineer @UFSCar**
 
-* 🔭 I’m currently working at **@Brandlovrs as a Data & Machine Learning Engineer**
+* 🔭Currently working at **@Brandlovrs as a Data & Machine Learning Engineer**
 
 ![github2](https://user-images.githubusercontent.com/51387195/136126926-6117deeb-3338-4e31-9044-8305ea3b07f0.gif)
 
