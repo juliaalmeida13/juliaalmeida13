@@ -2,7 +2,7 @@
 
 ###### <img src="https://media.baamboozle.com/uploads/images/545949/1672831370_818706_gif-url.gif" width="10">  Sao Paulo, Brazil
 
-* 👻 **Computer Engineer @UFSCar**
+* 👻 **Computer Engineer by @UFSCar**
 
 * 🔭Currently working at **@Brandlovrs as a Data & Machine Learning Engineer**
 
