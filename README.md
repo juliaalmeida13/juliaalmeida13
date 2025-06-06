@@ -4,7 +4,7 @@
 
 * 👻 **Computer Engineer by @UFSCar**
 
-* 🔭Currently working at open to work
+* 🔭Currently working at Lopti.ai
 
 ![github2](https://user-images.githubusercontent.com/51387195/136126926-6117deeb-3338-4e31-9044-8305ea3b07f0.gif)
 
